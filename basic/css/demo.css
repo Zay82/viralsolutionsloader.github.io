@@ -1,0 +1,53 @@
+body {
+    background-color: whitesmoke;
+    padding: 0%;
+    margin: 0;
+    color: black;
+    font-size: 19px
+}
+
+header {
+    text-align: center;
+    padding: 5%;
+    background-color: rebeccapurple;
+}
+/* Section Welcome-text */
+.wtxt {
+    text-align:center;
+    padding: 0%;
+}
+.wtxt h3 {
+    padding:0%;
+}
+.wtxt p {
+    padding:0%;
+    margin: 0;
+}
+
+/* Nav Bar */
+.nav-bar{
+    background-color: greenyellow;
+    padding: 1%;
+}
+.nav-bar a {
+    text-decoration: none;
+    color: black;
+    padding: 1%;
+    text-align: center;
+}
+.nav-bar a:hover{
+    background-color:rebeccapurple;
+    color: black;
+}
+
+/* hi section */
+.hi {
+    text-align: center;
+    padding: 0%;
+}
+
+/* footer */
+footer {
+    text-align: center;
+    font-size: 12px;
+}
